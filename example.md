@@ -25,4 +25,6 @@ This is *italic* and **THIS** is bold
 
 ## Uninstall
 
+<div style="max-width:40%">
 ![An image of the pac man](1944px-Pacman.svg.png)
+</div>
