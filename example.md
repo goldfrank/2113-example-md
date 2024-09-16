@@ -24,3 +24,5 @@ This is *italic* and **THIS** is bold
 ## Installation (BSD or Linux)
 
 ## Uninstall
+
+![An image of the pac man](1944px-Pacman.svg.png)
