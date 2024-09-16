@@ -13,6 +13,8 @@ System.out.println("Great!")
 ```
 
 
+We are going to debug with `println` statements.
+
 ## Installation (MacOS)
 
 This is *italic* and **THIS** is bold
