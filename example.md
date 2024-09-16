@@ -11,3 +11,12 @@ System.out.println("Great!")
 ```python
 [x for x in range(2, 5) if x != 4]
 ```
+
+
+## Installation (MacOS)
+
+## Installation (Windows)
+
+## Installation (BSD or Linux)
+
+## Uninstall
