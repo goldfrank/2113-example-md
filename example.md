@@ -4,7 +4,6 @@
 
 And here is some text!
 
-```
-something goes in here
-something  goes in here
+```java
+System.out.println("Great!")
 ```
