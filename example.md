@@ -4,6 +4,10 @@
 
 And here is some text!
 
+- lists
+- use
+- dashes
+
 ```java
 System.out.println("Great!")
 ```
