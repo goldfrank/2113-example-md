@@ -8,6 +8,6 @@ And here is some text!
 System.out.println("Great!")
 ```
 
-```bash
-python -m http.server
+```python
+[x for x in range(2, 5) if x != 4]
 ```
