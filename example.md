@@ -15,6 +15,8 @@ System.out.println("Great!")
 
 ## Installation (MacOS)
 
+This is *italic* and **THIS** is bold
+
 ## Installation (Windows)
 
 ## Installation (BSD or Linux)
