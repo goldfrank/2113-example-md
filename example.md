@@ -2,7 +2,7 @@
 
 ## Sub-Heading
 
-And here is some text!^[something goes here]
+And here is some text!
 
 - lists
 - use
